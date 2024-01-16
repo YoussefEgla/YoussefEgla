@@ -1,0 +1,18 @@
+name: Update badges
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update-readme:
+    name: Update credly badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Main Task
+        uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CREDLY_USER: youssef-abouegla
+          CREDLY_SORT: POPULAR
+          BADGE_SIZE: 125
