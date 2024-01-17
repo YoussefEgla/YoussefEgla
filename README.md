@@ -1,4 +1,4 @@
-Hello! I'm Youssef, a passionate Solutions Architect and Software Engineer. If you like any of my projects don't forget to star it ⭐
+Hello! I'm Youssef, a Software Engineer. If you like any of my projects don't forget to star it ⭐
 
 <!--START_SECTION:badges-->
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/87bd87c5-9584-497d-a4b4-95339f6ef003 "AWS Certified Developer – Associate")
