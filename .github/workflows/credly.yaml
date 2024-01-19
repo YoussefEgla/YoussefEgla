@@ -12,7 +12,6 @@ jobs:
       - name: Main Task
         uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CREDLY_USER: youssef-abouegla
           CREDLY_SORT: POPULAR
           BADGE_SIZE: 125
