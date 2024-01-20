@@ -13,4 +13,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: youssef-abouegla
+          CREDLY_SORT: RECENT
           BADGE_SIZE: 125
