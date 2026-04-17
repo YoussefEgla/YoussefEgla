@@ -1,5 +1,3 @@
-Hello! I'm Youssef, a Software Engineer. If you like any of my projects don't forget to star it ⭐
-
 <!--START_SECTION:badges-->
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/125x125/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/95c719f0-ecac-4fb5-8062-a1b30f301d1b "AWS Certified SysOps Administrator – Associate")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/125x125/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/87bd87c5-9584-497d-a4b4-95339f6ef003 "AWS Certified Developer – Associate")
